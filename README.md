@@ -1,6 +1,8 @@
 # practice_12
 
-A new Flutter project.
+
+![Day_12](https://github.com/opi1001/Day_12/assets/134625691/e81c58e0-f8f0-459c-ae8f-22cb67fd4766)
+
 
 ## Getting Started
 
